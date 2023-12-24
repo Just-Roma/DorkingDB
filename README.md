@@ -57,6 +57,7 @@ Collection of resources for dorking:
 ## Cheatsheets:
   - [gist.github.com/sundowndev](https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06)
   - [github.com/chr3st5an/Google-Dorking](https://github.com/chr3st5an/Google-Dorking)
+  - [www.tutorialsfreak.com/ethical-hacking-tutorial/google-dorking-cheat-sheet](https://www.tutorialsfreak.com/ethical-hacking-tutorial/google-dorking-cheat-sheet)
   - [ahrefs.com/blog/google-advanced-search-operators](https://ahrefs.com/blog/google-advanced-search-operators/)
 
 ## Articles:
