@@ -65,7 +65,7 @@ Collection of resources for dorking:
 
 # Yandex Dorking
 ## Articles:
-  - [hackware.ru](https://hackware.ru/?p=5996)
+  - [hackware.ru](https://hackware.ru/?p=6045)
   
 # Licence
 MIT :copyright:
