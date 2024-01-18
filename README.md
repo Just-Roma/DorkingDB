@@ -62,5 +62,10 @@ Collection of resources for dorking:
 
 ## Articles:
   - [securitytrails.com/blog/google-hacking-techniques](https://securitytrails.com/blog/google-hacking-techniques)
+
+# Google Dorking
+## Articles:
+  - [hackware.ru](https://hackware.ru/?p=5996)
+  
 # Licence
 MIT :copyright:
