@@ -63,9 +63,20 @@ Collection of resources for dorking:
 ## Articles:
   - [securitytrails.com/blog/google-hacking-techniques](https://securitytrails.com/blog/google-hacking-techniques)
 
+# Yahoo Dorking
+## Articles:
+  - [search.mediasova.com/en/yahoo](https://search.mediasova.com/en/yahoo)
+  - [en.wikibooks.org/wiki/How_To_Search/Yahoo](https://en.wikibooks.org/wiki/How_To_Search/Yahoo)
+
 # Yandex Dorking
 ## Articles:
   - [hackware.ru](https://hackware.ru/?p=6045)
-  
+
+# Bing Dorking
+## Articles:
+  - [support.microsoft.com/en-us/topic/advanced-search-keywords-ea595928-5d63-4a0b-9c6b-0b769865e78a](https://support.microsoft.com/en-us/topic/advanced-search-keywords-ea595928-5d63-4a0b-9c6b-0b769865e78a)
+  - [support.microsoft.com/en-us/topic/advanced-search-options-b92e25f1-0085-4271-bdf9-14aaea720930](https://support.microsoft.com/en-us/topic/advanced-search-options-b92e25f1-0085-4271-bdf9-14aaea720930)
+  - [www.bruceclay.com/blog/bing-google-advanced-search-operators](https://www.bruceclay.com/blog/bing-google-advanced-search-operators/)
+
 # Licence
 MIT :copyright:
