@@ -62,7 +62,8 @@ Collection of resources for dorking:
 
 ## Articles:
   - [securitytrails.com/blog/google-hacking-techniques](https://securitytrails.com/blog/google-hacking-techniques)
-
+  - [moz.com/blog/mastering-google-search-operators-in-67-steps](https://moz.com/blog/mastering-google-search-operators-in-67-steps
+)
 # Yahoo Dorking
 ## Articles:
   - [search.mediasova.com/en/yahoo](https://search.mediasova.com/en/yahoo)
