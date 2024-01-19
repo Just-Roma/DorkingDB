@@ -27,17 +27,8 @@ Collection of resources for dorking:
          - [github.com/opsdisk/pagodo](https://github.com/opsdisk/pagodo/tree/master/dorks)
          - [github.com/thomasdesr/Google-dorks](https://github.com/thomasdesr/Google-dorks)
          - [github.com/arimogi/Google-Dorks](https://github.com/arimogi/Google-Dorks)
-         - [github.com/securestep9/google-dorks](https://github.com/securestep9/google-dorks)
          - [github.com/Veradun/My-Dorks](https://github.com/Veradun/My-Dorks)
          - [github.com/0xAbbarhSF/Info-Sec-Dork-List](https://github.com/0xAbbarhSF/Info-Sec-Dork-List)
-         - [github.com/TheSpeedX/SDorker/tree/master/files](https://github.com/TheSpeedX/SDorker/tree/master/files)
-         - [github.com/cdrclbrs/Google-Dorks](https://github.com/cdrclbrs/Google-Dorks)
-         - [github.com/TUXCMD/Google-Dorks-Full_list](https://github.com/TUXCMD/Google-Dorks-Full_list)
-         - [github.com/s4msecurity/Dork_List_And_Smart_Search](https://github.com/s4msecurity/Dork_List_And_Smart_Search)
-         - [github.com/Giddyspurz/Google-Dorks](https://github.com/Giddyspurz/Google-Dorks)
-         - [github.com/TomMalvoRiddle/google-dorks-2020](https://github.com/TomMalvoRiddle/google-dorks-2020)
-         - [github.com/nijithneo/Dorks](https://github.com/nijithneo/Dorks)
-         - [github.com/SleepTheGod/Google-Dorks](https://github.com/SleepTheGod/Google-Dorks)
 
       - #### SQLi:
          - [gbhackers.com/latest-google-sql-dorks](https://gbhackers.com/latest-google-sql-dorks/)
