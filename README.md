@@ -16,7 +16,6 @@ Collection of resources for dorking:
   - ### Big Data:
       - #### General:
          - [hackersonlineclub.com/google-hacking](https://hackersonlineclub.com/google-hacking/)
-         - [gbhackers.com/latest-google-dorks-list](https://gbhackers.com/latest-google-dorks-list/)
          - [www.boxpiper.com/posts/google-dork-list](https://www.boxpiper.com/posts/google-dork-list)
          - [github.com/Proviesec/google-dorks](https://github.com/Proviesec/google-dorks)
          - [github.com/aleedhillon/7000-Google-Dork-List](https://github.com/aleedhillon/7000-Google-Dork-List)
