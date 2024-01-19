@@ -37,9 +37,7 @@ Collection of resources for dorking:
          - [github.com/Giddyspurz/Google-Dorks](https://github.com/Giddyspurz/Google-Dorks)
          - [github.com/TomMalvoRiddle/google-dorks-2020](https://github.com/TomMalvoRiddle/google-dorks-2020)
          - [github.com/nijithneo/Dorks](https://github.com/nijithneo/Dorks)
-         - [github.com/phantompacket/google-dorks](https://github.com/phantompacket/google-dorks)
          - [github.com/SleepTheGod/Google-Dorks](https://github.com/SleepTheGod/Google-Dorks)
-         - [github.com/dap-ware/fknDrk](https://github.com/dap-ware/fknDrk)
 
       - #### SQLi:
          - [gbhackers.com/latest-google-sql-dorks](https://gbhackers.com/latest-google-sql-dorks/)
