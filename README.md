@@ -22,13 +22,11 @@ Collection of resources for dorking:
          - [github.com/aleedhillon/7000-Google-Dork-List](https://github.com/aleedhillon/7000-Google-Dork-List)
          - [github.com/readloud/Google-Hacking-Database-GHDB](https://github.com/readloud/Google-Hacking-Database-GHDB)
          - [github.com/Ishanoshada/GDorks](https://github.com/Ishanoshada/GDorks)
-         - [github.com/sushiwushi/bug-bounty-dorks](https://github.com/sushiwushi/bug-bounty-dorks)
          - [github.com/Machinh/Google-Dorking](https://github.com/Machinh/Google-Dorking)
          - [github.com/BullsEye0/google_dork_list](https://github.com/BullsEye0/google_dork_list)
          - [github.com/opsdisk/pagodo](https://github.com/opsdisk/pagodo/tree/master/dorks)
          - [github.com/thomasdesr/Google-dorks](https://github.com/thomasdesr/Google-dorks)
          - [github.com/arimogi/Google-Dorks](https://github.com/arimogi/Google-Dorks)
-         - [github.com/Ayb-Brh/GoogleDorks](https://github.com/Ayb-Brh/GoogleDorks)
          - [github.com/securestep9/google-dorks](https://github.com/securestep9/google-dorks)
          - [github.com/Veradun/My-Dorks](https://github.com/Veradun/My-Dorks)
          - [github.com/0xAbbarhSF/Info-Sec-Dork-List](https://github.com/0xAbbarhSF/Info-Sec-Dork-List)
@@ -42,7 +40,7 @@ Collection of resources for dorking:
          - [github.com/phantompacket/google-dorks](https://github.com/phantompacket/google-dorks)
          - [github.com/SleepTheGod/Google-Dorks](https://github.com/SleepTheGod/Google-Dorks)
          - [github.com/dap-ware/fknDrk](https://github.com/dap-ware/fknDrk)
-        
+
       - #### SQLi:
          - [gbhackers.com/latest-google-sql-dorks](https://gbhackers.com/latest-google-sql-dorks/)
          - [github.com/JacobRiggs/Google-Dorks-SQLi](https://github.com/JacobRiggs/Google-Dorks-SQLi-)
@@ -52,7 +50,9 @@ Collection of resources for dorking:
          - [github.com/0xZipp0/SQL-injection-dorks-list](https://github.com/0xZipp0/SQL-injection-dorks-list)
          - [github.com/abhishek1924/SQL-Dorks](https://github.com/abhishek1924/SQL-Dorks)
        
-         
+      - #### Bug Bounty:
+         - [github.com/sushiwushi/bug-bounty-dorks](https://github.com/sushiwushi/bug-bounty-dorks)
+
 ## Cheatsheets:
   - [gist.github.com/sundowndev](https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06)
   - [github.com/chr3st5an/Google-Dorking](https://github.com/chr3st5an/Google-Dorking)
