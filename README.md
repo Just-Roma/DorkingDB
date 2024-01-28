@@ -1,19 +1,12 @@
-# Database for Dorking 
-Collection of resources for dorking: 
-   - Lists with dorks.
-   - Cheatsheets.
-   - Articles.
-   - Databases.
-
 # Megacollections:
    - [github.com/cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list)
    - [github.com/redduxi/Google-Dorks-Resources](https://github.com/redduxi/Google-Dorks-Resources)
    
-# Google Dorking
-## Lists:
-  - ### Short lists:
+# Google
+### Lists:
+  - #### Short lists:
     - [www.boxpiper.com/posts/top-35-google-dorks-list](https://www.boxpiper.com/posts/top-35-google-dorks-list)
-  - ### Big Data:
+  - #### Big Data:
       - #### General:
          - [hackersonlineclub.com/google-hacking](https://hackersonlineclub.com/google-hacking/)
          - [www.boxpiper.com/posts/google-dork-list](https://www.boxpiper.com/posts/google-dork-list)
@@ -41,30 +34,66 @@ Collection of resources for dorking:
       - #### Bug Bounty:
          - [github.com/sushiwushi/bug-bounty-dorks](https://github.com/sushiwushi/bug-bounty-dorks)
 
-## Cheatsheets:
+### Cheatsheets:
   - [gist.github.com/sundowndev](https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06)
   - [github.com/chr3st5an/Google-Dorking](https://github.com/chr3st5an/Google-Dorking)
   - [www.tutorialsfreak.com/ethical-hacking-tutorial/google-dorking-cheat-sheet](https://www.tutorialsfreak.com/ethical-hacking-tutorial/google-dorking-cheat-sheet)
   - [ahrefs.com/blog/google-advanced-search-operators](https://ahrefs.com/blog/google-advanced-search-operators/)
 
-## Articles:
+### Articles:
   - [securitytrails.com/blog/google-hacking-techniques](https://securitytrails.com/blog/google-hacking-techniques)
   - [moz.com/blog/mastering-google-search-operators-in-67-steps](https://moz.com/blog/mastering-google-search-operators-in-67-steps
 )
-# Yahoo Dorking
-## Articles:
+# Yahoo
+### Articles:
   - [search.mediasova.com/en/yahoo](https://search.mediasova.com/en/yahoo)
   - [en.wikibooks.org/wiki/How_To_Search/Yahoo](https://en.wikibooks.org/wiki/How_To_Search/Yahoo)
 
-# Yandex Dorking
-## Articles:
+# Yandex
+### Articles:
   - [hackware.ru](https://hackware.ru/?p=6045)
 
-# Bing Dorking
-## Articles:
+# Baidu
+[Official site](https://www.baidu.com/gaoji/advanced.html)
+
+### Articles:
+  - [zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/p/582617911?utm_id=0)
+
+### Cheatsheet based on the official source:  
+
+Operator ""  
+According to Google's translation: "Contains the following complete keywords". According to personal limited research it can return results which include only a subset of the specified strings. The spaces between strings can be replaced with anything. The sequence is not always preserved.
+Try ~~googling~~ baiding "aaa bbb ccc" or smth similar. The operator might work better for Chinese queries.
+
+Operator |  
+Logical OR. Eg (foo | bar).
+
+Operator -  
+Used for exclusion. Eg -site:www.somesite.com to exclude from results.
+
+Operator ()  
+Used for grouping.
+
+Operator site:  
+It has the same purpose as in most other engines. The official page does not include a space between this operator and searched str, though it seems to work fine with space(s). The * seems to produce slightly different results. Subdomains are also returned if no * is provided.  
+
+Operator title:  
+It is like intitle in Google. The official page does include a space between operator and the searched title. It also places the title between round brackets. It seems to work fine without space(s) and without braces.  
+
+Operator inurl:  
+The official page includes a space between operator and the searched url. It also places the url between round brackets. It seems to work fine without space(s) and without braces.  
+
+Operator filetype:  
+Searches for the specified file extensions. Currently supported: pdf, doc, xls, ppt, rtf, all. Others seem to be unreliable. There must be no space between operator and extension.
+
+# Bing
+### Articles:
   - [support.microsoft.com/en-us/topic/advanced-search-keywords-ea595928-5d63-4a0b-9c6b-0b769865e78a](https://support.microsoft.com/en-us/topic/advanced-search-keywords-ea595928-5d63-4a0b-9c6b-0b769865e78a)
   - [support.microsoft.com/en-us/topic/advanced-search-options-b92e25f1-0085-4271-bdf9-14aaea720930](https://support.microsoft.com/en-us/topic/advanced-search-options-b92e25f1-0085-4271-bdf9-14aaea720930)
   - [www.bruceclay.com/blog/bing-google-advanced-search-operators](https://www.bruceclay.com/blog/bing-google-advanced-search-operators/)
+
+# DuckDuckGo
+[Official site](https://duckduckgo.com/duckduckgo-help-pages/results/syntax/)
 
 # Licence
 MIT :copyright:
