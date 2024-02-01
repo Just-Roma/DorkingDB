@@ -1,8 +1,9 @@
 # Megacollections:
    - [github.com/cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list)
    - [github.com/redduxi/Google-Dorks-Resources](https://github.com/redduxi/Google-Dorks-Resources)
-   
-# Google
+
+# [Google]( https://www.google.com/advanced_search)
+
 ### Lists:
   - #### Short lists:
     - [www.boxpiper.com/posts/top-35-google-dorks-list](https://www.boxpiper.com/posts/top-35-google-dorks-list)
@@ -44,17 +45,18 @@
   - [securitytrails.com/blog/google-hacking-techniques](https://securitytrails.com/blog/google-hacking-techniques)
   - [moz.com/blog/mastering-google-search-operators-in-67-steps](https://moz.com/blog/mastering-google-search-operators-in-67-steps
 )
-# Yahoo
+
+# [Yahoo](https://search.yahoo.com/web/advanced;_ylt=AwrNPjQzHrxl7fsP.21XNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZANRMjIwMjQtU0RfMQRzZWMDc3I-?fr=sfp)
+
 ### Articles:
   - [search.mediasova.com/en/yahoo](https://search.mediasova.com/en/yahoo)
   - [en.wikibooks.org/wiki/How_To_Search/Yahoo](https://en.wikibooks.org/wiki/How_To_Search/Yahoo)
 
-# Yandex
+# [Yandex](https://yandex.com/support/search/query-language/)
 ### Articles:
   - [hackware.ru](https://hackware.ru/?p=6045)
 
-# Baidu
-[Official site](https://www.baidu.com/gaoji/advanced.html)
+# [Baidu](https://www.baidu.com/gaoji/advanced.html)
 
 ### Articles:
   - [zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/p/582617911?utm_id=0)
@@ -86,14 +88,18 @@ The official page includes a space between operator and the searched url. It als
 Operator filetype:  
 Searches for the specified file extensions. Currently supported: pdf, doc, xls, ppt, rtf, all. Others seem to be unreliable. There must be no space between operator and extension.
 
-# Bing
+# [Bing](https://www.bing.com/account/general)
 ### Articles:
   - [support.microsoft.com/en-us/topic/advanced-search-keywords-ea595928-5d63-4a0b-9c6b-0b769865e78a](https://support.microsoft.com/en-us/topic/advanced-search-keywords-ea595928-5d63-4a0b-9c6b-0b769865e78a)
   - [support.microsoft.com/en-us/topic/advanced-search-options-b92e25f1-0085-4271-bdf9-14aaea720930](https://support.microsoft.com/en-us/topic/advanced-search-options-b92e25f1-0085-4271-bdf9-14aaea720930)
   - [www.bruceclay.com/blog/bing-google-advanced-search-operators](https://www.bruceclay.com/blog/bing-google-advanced-search-operators/)
 
-# DuckDuckGo
-[Official site](https://duckduckgo.com/duckduckgo-help-pages/results/syntax/)
+# [DuckDuckGo](https://duckduckgo.com/duckduckgo-help-pages/results/syntax/)
+
+### Cheatsheet  
+Operator filetype:  
+The official site states that it supports only these extensions: pdf, doc(x), xls(x), ppt(x), html.  
+The personal research has shown that it can also return results for other file types (eg txt, zip).
 
 # Licence
 MIT :copyright:
