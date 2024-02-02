@@ -71,7 +71,7 @@ Operator |
 Logical OR. Eg (foo | bar).
 
 Operator -  
-Used for exclusion. Eg -site:www.somesite.com to exclude from results.
+Used for exclusion. Eg -site:www.please-dont-click-on-me-i-might-be-dangerous.com to exclude from results.
 
 Operator ()  
 Used for grouping.
@@ -96,10 +96,28 @@ Searches for the specified file extensions. Currently supported: pdf, doc, xls, 
 
 # [DuckDuckGo](https://duckduckgo.com/duckduckgo-help-pages/results/syntax/)
 
-### Cheatsheet  
+### Cheatsheet:  
 Operator filetype:  
 The official site states that it supports only these extensions: pdf, doc(x), xls(x), ppt(x), html.  
 The personal research has shown that it can also return results for other file types (eg txt, zip).
+It looks like if it does not find anything relevant, it tries to return smth similar. For instance if you are looking for txt, the engine might send you some json results.
+
+# [Brave](https://search.brave.com/help/operators)
+
+# [Ecosia](https://www.ecosia.org/settings)
+
+### Cheatsheet:  
+General info:  
+  - The same query can return different results: The sequence can be different. Not sure about the equality of sets, will check later.
+
+Operator site:  
+Does not accept * wildcard but searches in subdomains.  
+
+Operator filetype:  
+Returns results for at least some extensions (eg pdf, txt, zip). It either does not recognize or blocks requests for some extensions (eg csv).  
+
+Operator intitle:  
+Put compound strings into quotes for better results (eg intitle:"some good title" instead of intitle:some good title). Seems to search for related strings (eg can add/replace delimeters). Sometimes returns unrelated results.
 
 # Licence
 MIT :copyright:
