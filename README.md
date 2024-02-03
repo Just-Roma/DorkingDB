@@ -108,10 +108,11 @@ It looks like if it does not find anything relevant, it tries to return smth sim
 
 ### Cheatsheet:  
 General info:  
-  - The same query can return different results: The sequence can be different. Not sure about the equality of sets, will check later.
+  - The same query might return different results: The sequence and amount of results can be different. It seems to depend on how many were found, if there are only few, then results shall be the same.
+  - It looks like the inurl: operator is not supported. There is a chance though that it has some unusual name.
 
 Operator site:  
-Does not accept * wildcard but searches in subdomains.  
+Does not accept * wildcard (neither in subdomains nor in path). Searches in subdomains: Eg site:google<span>.<span>com would return www<span>.<span>google<span>.<span>com, support<span>.<span>google<span>.<span>com, etc.  
 
 Operator filetype:  
 Returns results for at least some extensions (eg pdf, txt, zip). It either does not recognize or blocks requests for some extensions (eg csv).  
