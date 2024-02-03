@@ -46,9 +46,9 @@
   - [moz.com/blog/mastering-google-search-operators-in-67-steps](https://moz.com/blog/mastering-google-search-operators-in-67-steps
 )
 
-# [Yahoo](https://search.yahoo.com/web/advanced;_ylt=AwrNPjQzHrxl7fsP.21XNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZANRMjIwMjQtU0RfMQRzZWMDc3I-?fr=sfp)
+# [Yahoo](https://search.yahoo.com/web/advanced)
 
-### Articles:
+### Cheatsheets:
   - [search.mediasova.com/en/yahoo](https://search.mediasova.com/en/yahoo)
   - [en.wikibooks.org/wiki/How_To_Search/Yahoo](https://en.wikibooks.org/wiki/How_To_Search/Yahoo)
 
@@ -89,9 +89,11 @@ Operator filetype:
 Searches for the specified file extensions. Currently supported: pdf, doc, xls, ppt, rtf, all. Others seem to be unreliable. There must be no space between operator and extension.
 
 # [Bing](https://www.bing.com/account/general)
-### Articles:
+### Cheatsheets:
   - [support.microsoft.com/en-us/topic/advanced-search-keywords-ea595928-5d63-4a0b-9c6b-0b769865e78a](https://support.microsoft.com/en-us/topic/advanced-search-keywords-ea595928-5d63-4a0b-9c6b-0b769865e78a)
   - [support.microsoft.com/en-us/topic/advanced-search-options-b92e25f1-0085-4271-bdf9-14aaea720930](https://support.microsoft.com/en-us/topic/advanced-search-options-b92e25f1-0085-4271-bdf9-14aaea720930)
+
+### Articles:
   - [www.bruceclay.com/blog/bing-google-advanced-search-operators](https://www.bruceclay.com/blog/bing-google-advanced-search-operators/)
 
 # [DuckDuckGo](https://duckduckgo.com/duckduckgo-help-pages/results/syntax/)
