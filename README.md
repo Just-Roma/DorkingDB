@@ -71,7 +71,7 @@ Operator |
 Logical OR. Eg (foo | bar).
 
 Operator -  
-Used for exclusion. Eg -site:www.please-dont-click-on-me-i-might-be-dangerous.com to exclude from results.
+Used for exclusion. Eg -site:www<span>.<span>dont-open-me-i-might-be-dangerous<span>.<span>com to exclude from results.
 
 Operator ()  
 Used for grouping.
