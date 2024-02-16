@@ -2,6 +2,10 @@
    - [github.com/cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list)
    - [github.com/redduxi/Google-Dorks-Resources](https://github.com/redduxi/Google-Dorks-Resources)
 
+# Tools:
+   - [github.com/Just-Roma/AutoDorker](https://github.com/Just-Roma/AutoDorker)
+   - [github.com/IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan)
+     
 # [Google]( https://www.google.com/advanced_search)
 
 ### Lists:
