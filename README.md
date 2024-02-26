@@ -162,5 +162,15 @@ Returns results for at least some extensions (eg pdf, txt, zip). It either does 
 Operator intitle:  
 Put compound strings into quotes for better results (eg intitle:"some good title" instead of intitle:some good title). Seems to search for related strings (eg can add/replace delimeters). Sometimes returns unrelated results.
 
+# Qwant
+
+### Cheatsheet:  
+
+Operator site:  
+Does not accept * wildcard in subdomains. If added in path, then used as is. Searches in subdomains: Eg site:google<span>.<span>com would return account<span>.<span>google<span>.<span>com, support<span>.<span>google<span>.<span>com, etc.  
+
+Operator filetype:  
+Unreliable in general. Returns results for at least some extensions (eg txt, pdf). It either does not recognize or blocks requests for some extensions (eg csv). It looks like it checks the content rather than file extension.
+
 # Licence
 MIT :copyright:
